@@ -18,7 +18,8 @@ se puede ver el cambio con los pasos de arriba.
 
 
 /*--------------------------PRUEBA------------------------------------*/
-        crearSalon("1")
+
+	crearSalon("1")
         crearSalon("2")
         crearSalon("3")
 
