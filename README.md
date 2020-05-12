@@ -7,9 +7,9 @@ Para mostrar el cambio de estos objetos abajo en la sección prueba se encuentra
 que ilustra el cambio en los objetos con los metodos disponibles
 para verlo:
 
-1.Comentar el loop "while(!exit){}"
-\n2.Copiar la seccion prueba que se encuentra en este documento más abajo, en el archivo "sistema.scala".
-\n3.Correr
+1. Comentar el loop "while(!exit){}"
+2. Copiar la seccion prueba que se encuentra en este documento más abajo, en el archivo "sistema.scala".
+3. Correr
 
 Como no puedo automatizar la verificacion de la hora, creé metodos que cambien a 
 todos los salones cuando se le pasa una hora determinada, estas son las opciones
