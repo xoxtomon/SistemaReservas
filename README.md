@@ -1,5 +1,5 @@
 # SistemaReservas
-# INFORMACIÓN IMPORTANTE
+## INFORMACIÓN IMPORTANTE
 El menú de la interfaz realiza todas las acciones que está indincadas
 sin embargo hay algunas de estas acciones que a partir de la consola no son visibles 
 para el usuario, puesto que modifican a los objetos internamente.
